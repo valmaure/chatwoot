@@ -1,0 +1,15 @@
+{
+    "name": "agent7/chatwoot",
+    "autoload": {
+        "psr-4": {
+            "Agent7\\Chatwoot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jernhice",
+            "email": "jernhice@gmail.com"
+        }
+    ],
+    "require": {}
+}

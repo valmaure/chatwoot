@@ -1,0 +1,7 @@
+#informations pour le compte twilio et whatsapp
+
+twilio:
+  account_sid: 'ACa94aad198da847162cc490452aeba527'
+  auth_token: 'dab9ad34b7a6d18fec0c7e915e4da92e'
+  phone_number: '+14807250732'
+  whatsapp_phone_number: '+14155238886'
